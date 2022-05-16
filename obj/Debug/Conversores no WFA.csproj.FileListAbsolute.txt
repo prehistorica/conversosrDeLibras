@@ -1,0 +1,15 @@
+D:\Visual Studio\Conversores no WFA\bin\Debug\Conversores no WFA.exe.config
+D:\Visual Studio\Conversores no WFA\bin\Debug\Conversores no WFA.exe
+D:\Visual Studio\Conversores no WFA\bin\Debug\Conversores no WFA.pdb
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores no WFA.csprojAssemblyReference.cache
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores_no_WFA.Form1.resources
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores_no_WFA.Properties.Resources.resources
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores no WFA.csproj.GenerateResource.cache
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores no WFA.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores no WFA.exe
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores no WFA.pdb
+D:\Visual Studio\Conversores no WFA\bin\Debug\Conversores no WFA.exe.manifest
+D:\Visual Studio\Conversores no WFA\bin\Debug\Conversores no WFA.application
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores no WFA.TrustInfo.xml
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores no WFA.exe.manifest
+D:\Visual Studio\Conversores no WFA\obj\Debug\Conversores no WFA.application
